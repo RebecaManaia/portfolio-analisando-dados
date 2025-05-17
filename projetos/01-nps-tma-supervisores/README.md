@@ -1,4 +1,4 @@
-# Análise de NPS e TMA por Supervisor
+# NPS e TMA: Insights Estratégicos sobre Eficiência e Satisfação
 
 📊 Projeto de análise de indicadores de atendimento utilizando Python e Excel.
 
