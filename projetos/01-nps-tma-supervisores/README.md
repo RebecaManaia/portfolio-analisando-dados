@@ -1,4 +1,4 @@
-# NPS e TMA: Insights Estratégicos sobre Eficiência e Satisfação
+# CX Insights: Análise de Indicadores de Atendimento e Proposta de Melhoria Operacional
 
 📊 Projeto de análise de indicadores de atendimento utilizando Python e Excel.
 
