@@ -29,7 +29,6 @@ Explorar e entender como o TMA (Tempo Médio de Atendimento), o NPS (Net Promote
 - `analise-nps-tma.ipynb` → notebook com cálculos, visualizações e interpretações
 - `README.md` → descrição do projeto
 
-👉 [Clique aqui para visualizar o notebook completo](projetos/01-nps-tma-supervisores/CX_Insights_Analise_de_Indicadores_de_Atendimento.ipynb)
 ---
 
 📌 Projeto desenvolvido por [Rebeca Manaia](https://github.com/RebecaManaia)
